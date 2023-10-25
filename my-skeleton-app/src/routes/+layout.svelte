@@ -9,7 +9,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">AMETHYST</strong>
+				<strong class="text -x1 uppercase">AMETHYST</strong>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
@@ -22,7 +22,7 @@
 				</a>
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="https://twitter.com/SkeletonUI"
+					href="https://twitter.com/weebisdev"
 					target="_blank"
 					rel="noreferrer"
 				>
