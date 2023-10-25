@@ -2,19 +2,34 @@
   .center {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     height: 100vh;
     text-align: center;
     margin-top: -30vh; /* Adjust the value as needed */
   }
+
+  .header {
+    text-align: left;
+  }
+
+  .text {
+    text-align: left;
+    white-space: pre-line;
+  }
+
+  .btn-container {
+    display: flex;
+    justify-content: flex-start;
+  }
 </style>
 
 <div class="center">
   <div class="container mx-auto p-8 space-y-8">
-    <h1 class="h1 font-abc">Hello!</h1>
-    <p class="font-dm">Introducing.. Amethyst! a fun Interaction guilded bot.</p>
-    <section>
+    <h1 class="h1 font-abc header">Hello! I'm <span class="bg-gradient-to-br from-pink-500 to-violet-500 bg-clip-text text-transparent box-decoration-clone">Amethyst</span></h1>
+    <p class="font-dm text">A guilded interaction bot that lets users have the ability to interact 
+	with each other through fun commands and gifs. </p>
+    <section class="btn-container">
       <a class="btn text-xl variant-soft-surface rounded py-3 px-7" href="https://kit.svelte.dev/">Invite Today!</a>
     </section>
   </div>
