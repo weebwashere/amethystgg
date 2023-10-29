@@ -26,9 +26,9 @@
 
 <div class="center">
   <div class="container mx-auto p-8 space-y-8">
-    <h1 class="h1 font-abc header">Hello! I'm <span class="bg-gradient-to-br from-pink-500 to-violet-500 bg-clip-text text-transparent box-decoration-clone">Amethyst</span></h1>
-    <p class="font-dm text">A guilded interaction bot that lets users have the ability to interact 
-	with each other through fun commands and gifs. </p>
+    <h1 class="h1 font-abc header">Hello! I'm <span class="bg-gradient-to-br from-red-500 to-yellow-500 bg-clip-text text-transparent box-decoration-clone">Reminder</span></h1>
+    <p class="font-dm text">A guilded reminder bot cabable of creating reminders for users
+    to recive directly from guilded!</p>
     <section class="btn-container">
       <a class="btn text-xl variant-soft-surface rounded py-3 px-7" href="https://kit.svelte.dev/">Invite Today!</a>
     </section>

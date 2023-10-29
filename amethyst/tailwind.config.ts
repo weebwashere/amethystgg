@@ -17,12 +17,9 @@ export default {
     skeleton({
       themes: {
         preset: [
-          {
-            name: 'skeleton',
-            enhancements: true,
-          },
-        ],
-      },
-    }),
-  ],
-} satisfies Config;
+          { name: 'skeleton', enhancements: true }
+        ]
+      }
+    })
+  ]
+};

@@ -11,7 +11,7 @@
         <AppBar>
             <LightSwitch />
             <svelte:fragment slot="lead">
-                <h1 class="font-abc lowercase">AMETHYST</h1>
+                <h1 class="font-abc lowercase">REMINDER</h1>
             </svelte:fragment>
             <svelte:fragment slot="trail">
                 <a
@@ -24,27 +24,11 @@
                 </a>
                 <a
                     class="btn btn-sm variant-ghost-surface font-abc"
-                    href="/about"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    About Us
-                </a>
-                <a
-                    class="btn btn-sm variant-ghost-surface font-abc"
                     href="/"
                     target="_blank"
                     rel="noreferrer"
                 >
                     GitHub
-                </a>
-                <a
-                    class="btn btn-sm variant-ghost-surface font-abc"
-                    href="/commands"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    Commands
                 </a>
             </svelte:fragment>
         </AppBar>
