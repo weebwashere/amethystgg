@@ -16,7 +16,7 @@
             <svelte:fragment slot="trail">
                 <a
                     class="btn btn-sm variant-ghost-surface font-abc"
-                    href="https://www.guilded.gg/b/2e702266-2dfe-4796-b61c-ccbb0536444c"
+                    href="https://www.guilded.gg/i/2VVZR5g2"
                     target="_blank"
                     rel="noreferrer"
                 >
