@@ -30,7 +30,7 @@
     <p class="font-dm text">A guilded reminder bot cabable of creating reminders for users
     to recive directly from guilded!</p>
     <section class="btn-container">
-      <a class="btn text-xl variant-soft-surface rounded py-3 px-7" href="https://kit.svelte.dev/">Invite Today!</a>
+      <a class="btn text-xl variant-soft-surface rounded py-3 px-7" href="https://www.guilded.gg/b/2e702266-2dfe-4796-b61c-ccbb0536444c">Invite Today!</a>
     </section>
   </div>
 </div>
