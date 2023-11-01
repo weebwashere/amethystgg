@@ -11,7 +11,7 @@
         <AppBar>
             <LightSwitch />
             <svelte:fragment slot="lead">
-                <h1 class="font-abc lowercase">REMINDER</h1>
+                <h1 class="font-abc lowercase">reminder</h1>
             </svelte:fragment>
             <svelte:fragment slot="trail">
                 <a
