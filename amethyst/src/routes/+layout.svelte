@@ -24,6 +24,14 @@
                 </a>
                 <a
                     class="btn btn-sm variant-ghost-surface font-abc"
+                    href="/about"
+                    target="_blank"
+                    rel="noreferrer"
+                >
+                    About us
+                </a>
+                <a
+                    class="btn btn-sm variant-ghost-surface font-abc"
                     href="https://github.com/weebwashere/skele"
                     target="_blank"
                     rel="noreferrer"
