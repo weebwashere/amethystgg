@@ -31,6 +31,14 @@
                 >
                     GitHub
                 </a>
+                <a
+                    class="btn btn-sm variant-ghost-surface font-abc"
+                    href="/about"
+                    target="_blank"
+                    rel="noreferrer"
+                >
+                    About Us
+                </a>
             </svelte:fragment>
         </AppBar>
     </svelte:fragment>
