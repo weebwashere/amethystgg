@@ -33,7 +33,7 @@
                 </a>
                 <a
                     class="btn btn-sm variant-ghost-surface font-abc"
-                    href="/about"
+                    href="/commands"
                     target="_blank"
                     rel="noreferrer"
                 >
