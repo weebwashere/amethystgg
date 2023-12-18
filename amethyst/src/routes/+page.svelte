@@ -1,26 +1,32 @@
+<script lang="ts">
+    import '../app.postcss';
+    import { AppShell, AppBar, Avatar } from '@skeletonlabs/skeleton';
+    import { LightSwitch, CodeBlock } from '@skeletonlabs/skeleton';
+</script>
+
 <style>
   .center {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     height: 100vh;
-    text-align: center;
+    text-align: left; 
     margin-top: -30vh; /* Adjust the value as needed */
   }
 
   .header {
-    text-align: center;
+    text-align: left;
   }
 
   .text {
-    text-align: center;
+    text-align: left;
     white-space: pre-line;
   }
 
   .btn-container {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
   }
 </style>
 
@@ -33,4 +39,5 @@
       <a class="btn text-xl font-abc variant-soft-surface rounded py-3 px-7" href="https://www.guilded.gg/b/2e702266-2dfe-4796-b61c-ccbb0536444c">Invite Today!</a>
     </section>
   </div>
+  
 </div>
